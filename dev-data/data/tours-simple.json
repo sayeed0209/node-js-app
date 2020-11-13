@@ -136,5 +136,19 @@
   },
   { "id": 9, "name": "test tour", "duration": 10, "difficulty": "easy" },
   { "id": 10, "name": "test tour", "duration": 10, "difficulty": "easy" },
-  { "id": 11, "name": "test tour2", "duration": 12, "difficulty": "easy" }
+  { "id": 11, "name": "test tour2", "duration": 12, "difficulty": "easy" },
+  {
+    "id": 12,
+    "name": "test tour55d55",
+    "duration": 12,
+    "difficulty": "easy",
+    "price": 1200
+  },
+  {
+    "id": 13,
+    "name": "test tour55d55",
+    "duration": 12,
+    "difficulty": "easy",
+    "price": 1200
+  }
 ]
